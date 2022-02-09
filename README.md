@@ -8,7 +8,7 @@ A tip calculator that considers the cost of the service, number of people, and c
 
 ## Live Demo
 
-- [Live Demo in Netlify](tip-calc-demo.netlify.app)
+- [Live Demo in Netlify](https://tip-calc-demo.netlify.app/)
 
 ## Built With
 
