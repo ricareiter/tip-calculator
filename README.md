@@ -21,6 +21,7 @@ A tip calculator that considers the cost of the service, number of people, and c
 **Ricardo Reiter**
 
 - GitHub: [@ricareiter](https://github.com/ricareiter)
+- Linkedin [Ricardo Reiter](https://www.linkedin.com/in/ricardoreiter/)
 
 ## 🤝 Contributing
 
